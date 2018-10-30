@@ -1,0 +1,25 @@
+td{
+  border: 2px solid #9289B3;
+  padding: 20px;
+}
+#black{
+  background-color: #3E3B41;
+}
+#yellow{
+  background-color: #F6FC79;
+}
+#pink{
+  background-color: #FFB6C1;
+}
+#red{
+  background-color: #FB4E3B;
+}
+#blue{
+  background-color: #6495ED;
+}
+#grey{
+  background-color: #D3D3D3;
+}
+#green{
+  background-color: #73CE92;
+}
